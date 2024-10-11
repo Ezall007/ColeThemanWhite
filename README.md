@@ -7,3 +7,10 @@ Thats about it. </p>
 I Know basic Java and Basic HTML + CSS that's about it for now 
 I'll update you once I know more coding languages my plan is to also learn C++ and Python.
 :3
+<br>
+<br>
+<h2> What will I Do? </h2>
+I'll mostly make mods for games I like and small games here or there, possibly a webiste. That's about it though.
+<br>
+<h2> Anything Else? </h2>
+I want to go into game development as a job and I'm cool. 
